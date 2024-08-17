@@ -110,8 +110,6 @@ DISABLE_UPDATE_PROMPT="true"
 
 export UPDATE_ZSH_DAYS=30
 
-eval `dircolors ~/.dir_colors/dircolors`
-
 #################
 # Env variables
 #################
